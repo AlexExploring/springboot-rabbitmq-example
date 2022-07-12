@@ -4,7 +4,49 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b5fbde7a-1473-4cbf-ab72-02092274416f" name="Default Changelist" comment="" />
+    <list default="true" id="b5fbde7a-1473-4cbf-ab72-02092274416f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq-consumer-by-config/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq-consumer-by-config/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq-consumer-by-config/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq-consumer-by-config/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq-consumer-by-config/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq-consumer-by-config/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq-consumer-by-config/src/main/java/com/zhx/SpringbootRabbitmqConfigConsumerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq-consumer-by-config/src/main/java/com/zhx/service/direct/DirectDuanxinConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq-consumer-by-config/src/main/java/com/zhx/service/direct/DirectEmailConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq-consumer-by-config/src/main/java/com/zhx/service/direct/DirectSMSConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq-consumer-by-config/src/main/java/com/zhx/service/fanout/FanoutDuanxinConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq-consumer-by-config/src/main/java/com/zhx/service/fanout/FanoutEmailConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq-consumer-by-config/src/main/java/com/zhx/service/fanout/FanoutSMSConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq-consumer-by-config/src/main/java/com/zhx/service/topic/TopicDuanxinConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq-consumer-by-config/src/main/java/com/zhx/service/topic/TopicEmailConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq-consumer-by-config/src/main/java/com/zhx/service/topic/TopicSMSConsumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq-consumer-by-config/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/rabbitmq-consumer-by-config/src/test/java/com/zhx/SpringbootRabbitmqConfigConsumerApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-rabbitmq-config-consumer/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-rabbitmq-config-consumer/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-rabbitmq-config-consumer/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-rabbitmq-config-consumer/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-rabbitmq-config-consumer/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-rabbitmq-config-consumer/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-rabbitmq-config-consumer/src/main/java/com/zhx/SpringbootRabbitmqConfigConsumerApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-rabbitmq-config-consumer/src/main/java/com/zhx/service/direct/DirectDuanxinConsumer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-rabbitmq-config-consumer/src/main/java/com/zhx/service/direct/DirectEmailConsumer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-rabbitmq-config-consumer/src/main/java/com/zhx/service/direct/DirectSMSConsumer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-rabbitmq-config-consumer/src/main/java/com/zhx/service/fanout/FanoutDuanxinConsumer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-rabbitmq-config-consumer/src/main/java/com/zhx/service/fanout/FanoutEmailConsumer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-rabbitmq-config-consumer/src/main/java/com/zhx/service/fanout/FanoutSMSConsumer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-rabbitmq-config-consumer/src/main/java/com/zhx/service/topic/TopicDuanxinConsumer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-rabbitmq-config-consumer/src/main/java/com/zhx/service/topic/TopicEmailConsumer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-rabbitmq-config-consumer/src/main/java/com/zhx/service/topic/TopicSMSConsumer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-rabbitmq-config-consumer/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-rabbitmq-config-consumer/src/test/java/com/zhx/SpringbootRabbitmqConfigConsumerApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-rabbitmq-producer/src/main/java/com/zhx/config/DirectRabbitMqConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-rabbitmq-producer/src/main/java/com/zhx/config/DirectRabbitMqConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-rabbitmq-producer/src/main/java/com/zhx/service/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-rabbitmq-producer/src/main/java/com/zhx/service/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springboot-rabbitmq-producer/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springboot-rabbitmq-producer/src/main/resources/application.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +59,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$PROJECT_DIR$/../../../../../Environment/apache-maven-3.6.3/maven-repository/org/springframework/amqp/spring-amqp/2.4.5/spring-amqp-2.4.5-sources.jar!/org/springframework/amqp/core/Queue.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$PROJECT_DIR$/../../../../../Environment/apache-maven-3.6.3/maven-repository/org/springframework/amqp/spring-amqp/2.4.5/spring-amqp-2.4.5-sources.jar!/org/springframework/amqp/core/AcknowledgeMode.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="jar://$PROJECT_DIR$/../../../../../Environment/apache-maven-3.6.3/maven-repository/org/springframework/amqp/spring-rabbit/2.4.5/spring-rabbit-2.4.5-sources.jar!/org/springframework/amqp/rabbit/annotation/RabbitListener.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -27,6 +77,7 @@
     </option>
   </component>
   <component name="ProjectId" id="2ABwwbjJ8xMtSnFvKYJZJSVSVyx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -37,6 +88,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -44,6 +96,9 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.24252874" />
     <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.ignored.files" />
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="enabled" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -119,8 +174,55 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="rabbitmq-consumer-by-config" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="rabbitmq-consumer-by-config" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SpringbootRabbitmqConfigConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
-      <module name="springboot-rabbitmq-config-consumer" />
+      <module name="rabbitmq-consumer-by-config" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.zhx.SpringbootRabbitmqConfigConsumerApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -152,7 +254,7 @@
       <workItem from="1654497667590" duration="9000" />
       <workItem from="1654497685120" duration="6878000" />
       <workItem from="1654516060476" duration="2647000" />
-      <workItem from="1657614518008" duration="4977000" />
+      <workItem from="1657614518008" duration="8038000" />
     </task>
     <servers />
   </component>

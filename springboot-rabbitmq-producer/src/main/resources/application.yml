@@ -9,4 +9,3 @@ spring:
     virtual-host: /
     host: 121.4.91.181
     port: 5672
-

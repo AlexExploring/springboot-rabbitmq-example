@@ -32,6 +32,7 @@ public class DirectRabbitMqConfig{
     public Binding smsBingding1(){
         return BindingBuilder.bind(smsQueue1()).to(directExchange()).with("sms");
     }
+
     @Bean
     public Binding duanxinBingding1(){
         return BindingBuilder.bind(duanxinQueue1()).to(directExchange()).with("duanxin");

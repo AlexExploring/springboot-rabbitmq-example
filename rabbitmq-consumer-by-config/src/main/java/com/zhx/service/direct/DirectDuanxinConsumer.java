@@ -4,6 +4,8 @@ import org.springframework.amqp.rabbit.annotation.RabbitHandler;
 import org.springframework.amqp.rabbit.annotation.RabbitListener;
 import org.springframework.stereotype.Service;
 
+import java.nio.channels.Channel;
+
 @Service
 @RabbitListener(queues = {"duanxin.direct.queue"})
 public class DirectDuanxinConsumer {

@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/springboot-rabbitmq-config-consumer/springboot-rabbitmq-config-consumer.iml" filepath="$PROJECT_DIR$/springboot-rabbitmq-config-consumer/springboot-rabbitmq-config-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbitmq-consumer-by-config/rabbitmq-consumer-by-config.iml" filepath="$PROJECT_DIR$/rabbitmq-consumer-by-config/rabbitmq-consumer-by-config.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-rabbitmq-example.iml" filepath="$PROJECT_DIR$/springboot-rabbitmq-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/springboot-rabbitmq-producer/springboot-rabbitmq-producer.iml" filepath="$PROJECT_DIR$/springboot-rabbitmq-producer/springboot-rabbitmq-producer.iml" />
     </modules>
