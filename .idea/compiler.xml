@@ -8,11 +8,11 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="springboot-rabbitmq-producer" />
-        <module name="rabbitmq-consumer-by-config" />
+        <module name="springboot-rabbitmq-config-consumer" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="rabbitmq-consumer-by-config" target="1.8" />
+      <module name="springboot-rabbitmq-config-consumer" target="1.8" />
       <module name="springboot-rabbitmq-example" target="1.8" />
       <module name="springboot-rabbitmq-producer" target="1.8" />
       <module name="transaction-example-dispatch-service" target="1.8" />
@@ -21,7 +21,7 @@
   </component>
   <component name="JavacSettings">
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
-      <module name="rabbitmq-consumer-by-config" options="" />
+      <module name="springboot-rabbitmq-config-consumer" options="" />
       <module name="springboot-rabbitmq-example" options="" />
       <module name="springboot-rabbitmq-producer" options="" />
     </option>
